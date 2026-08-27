@@ -2,5 +2,7 @@
   "name": "Unovia AI Academy Pro",
   "description": "Premium AI-powered online learning platform, course marketplace, and mobile app for mastering practical AI skills.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
